@@ -128,5 +128,5 @@ start_screen(screen)
 running = True
 game_started = False
 
-while running:
-  for event in pygame.event.get():
+#while running:
+ # for event in pygame.event.get():
